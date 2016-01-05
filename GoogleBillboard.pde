@@ -33,3 +33,4 @@ public boolean isPrime(double dNum)
       }
     return true; 
 }
+//2-12, 6-16,24-34,100-110 Substrings for each
